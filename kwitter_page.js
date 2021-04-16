@@ -1,13 +1,13 @@
 //YOUR FIRE BASE LINKS
 var firebaseConfig = {
-    apiKey: "AIzaSyAlWWr-Ps8-loK4YSV0sbRVh0zytXzAOtg",
-    authDomain: "practice-cf527.firebaseapp.com",
-    databaseURL: "https://practice-cf527-default-rtdb.firebaseio.com",
-    projectId: "practice-cf527",
-    storageBucket: "practice-cf527.appspot.com",
-    messagingSenderId: "108742475219",
-    appId: "1:108742475219:web:47c033642bd2710c134326",
-    measurementId: "G-Z9DCBMW77M"
+    apiKey: "AIzaSyA6LI8W8p5_fT9SgA6mXdEnHcZVyvi8t0g",
+    authDomain: "oh-3fa6a.firebaseapp.com",
+    databaseURL: "https://oh-3fa6a-default-rtdb.firebaseio.com",
+    projectId: "oh-3fa6a",
+    storageBucket: "oh-3fa6a.appspot.com",
+    messagingSenderId: "849076726601",
+    appId: "1:849076726601:web:0a4d05daf6dabae0dc0898",
+    measurementId: "G-9YF1SEQ7LF"
   };
   // Initialize Firebase
   firebase.initializeApp(firebaseConfig);
